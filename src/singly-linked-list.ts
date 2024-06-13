@@ -25,7 +25,7 @@ class PatientList {
 
 		if (this.tail) {
 			this.tail.next = newData;
-			this.tail = this.tail.next;
+			this.tail = this.tail.next
 		}
 	}
 
