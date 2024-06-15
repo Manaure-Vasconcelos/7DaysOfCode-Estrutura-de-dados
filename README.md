@@ -9,3 +9,5 @@ Repository destinado a pratica das principais estrutura de dados
 - Day3: Lista duplamente encadeada
 
 - Day4: Fila
+
+- Day5: Pilha
