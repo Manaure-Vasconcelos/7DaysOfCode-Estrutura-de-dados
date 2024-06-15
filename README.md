@@ -7,3 +7,5 @@ Repository destinado a pratica das principais estrutura de dados
 - Day2: Lista simplesmente encadeada
 
 - Day3: Lista duplamente encadeada
+
+- Day4: Fila
